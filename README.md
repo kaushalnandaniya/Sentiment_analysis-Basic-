@@ -119,14 +119,6 @@ vectorizer = TfidfVectorizer()
 model = LogisticRegression(max_iter=1000)
 ```
 
-## 🤝 Contributing
-
-Feel free to contribute to this project by:
-- Improving the preprocessing pipeline
-- Trying different ML algorithms
-- Adding more evaluation metrics
-- Enhancing the documentation
-
 
 ---
 
